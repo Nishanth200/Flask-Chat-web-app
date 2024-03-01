@@ -16,6 +16,7 @@
 <img src='./images_video/communication.png'>
 
 <h4>Demo Video</h4>
-[![Watch the Demo Video](./images_video/communication.png)](https://github.com/Nishanth200/Flask-Chat-web-app/assets/71684996/dcbff2b4-7611-4662-9e04-616b6ed5599e)
+[![Watch the Demo Video](./images_video/communication.png)](https://github.com/Nishanth200/Flask-Chat-web-app/blob/main/images_video/Using%20the%20app.mp4)
+
 
 
