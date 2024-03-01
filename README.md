@@ -1,4 +1,4 @@
-<h1>🚀 Flask-SocketIO Chat Web App</h1>
+<h1>Flask-SocketIO Chat Web App</h1>
 
 <p>Description: Experience real-time communication like never before! Our chat web app, powered by Flask and Socket.IO, connects users seamlessly across devices. 
   Whether you’re collaborating with colleagues, catching up with friends, or organizing events, our intuitive interface ensures smooth conversations. 
@@ -16,6 +16,6 @@
 <img src='./images_video/communication.png'>
 
 <h4>Demo Video</h4>
-[![Watch the Demo Video](./images_video/video_preview.png)](https://github.com/Nishanth200/Flask-Chat-web-app/assets/71684996/dcbff2b4-7611-4662-9e04-616b6ed5599e)
+[![Watch the Demo Video](./images_video/communication.png)](https://github.com/Nishanth200/Flask-Chat-web-app/assets/71684996/dcbff2b4-7611-4662-9e04-616b6ed5599e)
 
 
