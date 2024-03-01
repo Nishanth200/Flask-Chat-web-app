@@ -4,17 +4,18 @@
   Whether you’re collaborating with colleagues, catching up with friends, or organizing events, our intuitive interface ensures smooth conversations. 
 </p>
 <p>Feel free to customize this description further for your GitHub README.md file. Happy coding!</p>
-<h2>Images of the website</h2>
+<h2>Screenshots of the website</h2>
 
-<h4>This is the home page of the webpage.</h4>
+<h4>Home Page</h4>
 <img src='./images_video/chat-HomePage.png'>
 
-<h4>This is the main chat page of the webpage.</h4>
+<h4>Main Chat Page</h4>
 <img src='./images_video/chat-main-page.png'>
 
-<h4>This is how communication is done in this app.</h4>
+<h4>Communication in Action</h4>
 <img src='./images_video/communication.png'>
 
-<h4>This is the working video of the page</h4>
-https://github.com/Nishanth200/Flask-Chat-web-app/assets/71684996/dcbff2b4-7611-4662-9e04-616b6ed5599e
+<h4>Demo Video</h4>
+[![Watch the Demo Video](./images_video/video_preview.png)](https://github.com/Nishanth200/Flask-Chat-web-app/assets/71684996/dcbff2b4-7611-4662-9e04-616b6ed5599e)
+
 
