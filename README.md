@@ -16,7 +16,7 @@
 <img src='./images_video/communication.png'>
 
 <h4>This is the working video of the page</h4>
-<video controls>
+<video width="320" height="240" controls>
   <source src="./images_video/Using the app.mp4" type="video/mp4">
   <source src="./images_video/Using the app.mp4" type="video/ogg">
   Your browser does not support the video tag.
